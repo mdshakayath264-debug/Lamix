@@ -1,0 +1,4 @@
+aiohttp>=3.9.0
+aiogram>=3.4.0
+phonenumbers>=8.13.0
+pyotp
